@@ -487,7 +487,7 @@ export default function VolatilidadePage() {
         <div className="rounded-lg border border-light-border bg-white p-4">
           <div className="mb-3 flex items-baseline justify-between">
             <h2 className="text-sm uppercase tracking-wider text-navy">
-              Volatilidade rolante
+              Volatilidade em janela móvel
             </h2>
             <div className="flex gap-3 text-[11px] text-text-muted">
               <span className="flex items-center gap-1">
